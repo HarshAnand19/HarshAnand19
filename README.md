@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Android Studio
-- 🌱 I’m currently learning ...Android Studio using Java,Data Structure and Algorithm 
+- 🌱 I’m currently learning ...Data Structure and Algorithms
 - 👯 I’m looking to collaborate on ...Android Development Projects
 - 🤔 I’m looking for help with ...Android Studio
 - 💬 Ask me about ...anything
