@@ -18,6 +18,8 @@
 - 🌱 I’m currently learning Angular and SpringBoot
 
 - 💬 Let's talk about - Software Engineering, Web Development, Mobile Development
+  
+- 👯 I’m looking to collaborate on - Angular, Web dev and Docker related projects 
 
 - 🤝 I’m available for freelancing.
 
