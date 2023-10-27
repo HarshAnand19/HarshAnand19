@@ -1,6 +1,6 @@
 
  <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Harsh+Anand+%F0%9F%91%8B;Software+Engineer;Problem+Solver;" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Harsh+Anand+%F0%9F%91%8B;Software+Engineer;Full+Stack+Developer;Flutter+Developer;Problem+Solver" alt="Headline" />
     </div>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <!--horizontal divider(gradiant)-->
